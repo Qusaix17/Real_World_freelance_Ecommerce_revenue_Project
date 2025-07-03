@@ -1,4 +1,4 @@
-# Real_World_freelance_Ecommerce_revenue_Project
+# Real World freelance Ecommerce revenue Project
 
 This project showcases a real-life data analysis engagement that resulted in approximately **41% increase in revenue within one month** for an e-commerce business.
 
