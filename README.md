@@ -20,4 +20,6 @@ I have obtained explicit permission from the business owner to share this projec
 
 ## Tbale of Content :
 - [Data Source xlsx](./Data/Data_Source.xlsx)
+- [Methodolgy](#Mthodology.md)
+- [Excel Formulas used](#Formulas.md)
 
